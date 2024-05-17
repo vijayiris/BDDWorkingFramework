@@ -18,9 +18,7 @@ public class Utility {
 		return label_Value;
 	}
 	
-	public void explicit_waits() {
-		
-		
-	}
 
+
+	
 }
