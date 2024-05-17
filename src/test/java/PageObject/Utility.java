@@ -17,5 +17,10 @@ public class Utility {
 		String label_Value = prop.getProperty(label);
 		return label_Value;
 	}
+	
+	public void Implicit_wait() {
+		
+		System.out.println("Implicit wait");
+	}
 
 }
