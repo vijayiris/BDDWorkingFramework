@@ -18,6 +18,10 @@ public class Utility {
 		return label_Value;
 	}
 	
+	public void Implicit_wait() {
+		
+		System.out.println("Implicit wait");
+	}
 
 
 	
